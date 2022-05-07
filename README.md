@@ -12,6 +12,9 @@ Full Stack Developer
 
 <a href="https://www.github.com/shoaib-ahmed16" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/shoaib-ahmed16?logo=github&style=for-the-badge&color=facc15&labelColor=000000" /></a>
+<a href="https://www.github.com/shoaib-ahmed16" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/profileviews/shoaib-ahmed16?logo=github&style=for-the-badge&color=facc15&labelColor=000000" /></a>
+ GitHub Badge
 
 ### Skills
 
