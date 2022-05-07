@@ -17,8 +17,8 @@ src="https://img.shields.io/github/followers/shoaib-ahmed16?logo=github&style=fo
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.praetorian.com/wp-content/uploads/2022/03/spring.jpg" width="72" height="36" alt="Spring" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://www.praetorian.com/wp-content/uploads/2022/03/spring.jpg" width="72" height="36" alt="hibernate" /></a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" width="72" height="36" alt="Spring" /></a>
+<a href="https://hibernate.org/" target="_blank" rel="noreferrer"><img src="https://hibernate.org/images/hibernate-logo.svg" width="72" height="36" alt="hibernate" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
