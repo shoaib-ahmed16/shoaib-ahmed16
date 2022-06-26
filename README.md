@@ -1,13 +1,13 @@
 Hi 👋 My name is Shoaib Ahmed
 =============================
 
-Full Stack Developer
+Java Stack Developer
 --------------------
 
 * 🌍  I'm based in Dehradun,Uttarakhand
 * ✉️  You can contact me at [sahmed094@gmail.com](mailto:sahmed094@gmail.com)
 * 🧠  I'm learning core Java
-* 🤝  I'm open to collaborating on Rest API using Node.js, mongoDb, express.js
+* 🤝  I'm open to collaborating on Rest API using Java,Spirng boot, hibernate, Mysql OR Node.js, express.js, mongoDb.
 * ⚡  I love to upskill myself
 
 <a href="https://www.github.com/shoaib-ahmed16" target="_blank" rel="noreferrer"><img
