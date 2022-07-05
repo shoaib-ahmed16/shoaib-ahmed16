@@ -6,7 +6,7 @@ Java Stack Developer
 
 * 🌍  I'm based in Dehradun,Uttarakhand
 * ✉️  You can contact me at [sahmed094@gmail.com](mailto:sahmed094@gmail.com)
-* 🧠  I'm learning core Java
+* 🧠  I'm learning SOLID,LLDS,SLDS
 * 🤝  I'm open to collaborating on Rest API using Java,Spirng boot, hibernate, Mysql OR Node.js, express.js, mongoDb.
 * ⚡  I love to upskill myself
 
