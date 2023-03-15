@@ -27,15 +27,27 @@ src="https://img.shields.io/github/followers/shoaib-ahmed16?logo=github&style=fo
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+
+  
 </p>
-
-
 ### Socials
-<a href="https://www.github.com/shoaib-ahmed16" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/shoaib-g19" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/17362619" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-<a href="https://shoaibportfolio.vercel.app/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/portfolio-icon-512x512-u03oqi8o.png" width="32" height="32" /></a></p>
 
+<a href="https://www.github.com/shoaib-ahmed16" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+</a> 
+<a href="https://www.linkedin.com/in/shoaib-g19" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+</a> 
+<a href="https://www.stackoverflow.com/users/17362619" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
+</a>
+<a href="https://shoaibportfolio.vercel.app/" target="_blank" rel="noreferrer">
+  <img src="https://static-00.iconduck.com/assets.00/portfolio-icon-512x512-u03oqi8o.png" width="32" height="32" />
+</a>
+
+
+</p>
 ### Badges
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/shoaib-ahmed16"><img src="https://github-readme-stats.vercel.app/api?username=shoaib-ahmed16&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="shoaib-ahmed16's GitHub stats" /></a>
