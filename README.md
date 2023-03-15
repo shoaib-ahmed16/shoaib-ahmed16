@@ -59,6 +59,9 @@ src="https://img.shields.io/github/followers/shoaib-ahmed16?logo=github&style=fo
 <b>Top Repositories</b>
 
 <div width="100%" align="center">
+  <a href="https://www.github.com/shoaib-ahmed16" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="24" height="24" />
+</a>
   <a href="https://github.com/shoaib-ahmed16/Wallet-app.git" align="left">
   <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shoaib-ahmed16&repo=Wallet-app&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" />
   </a>
