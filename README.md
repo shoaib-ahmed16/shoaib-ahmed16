@@ -1,8 +1,6 @@
 
 ![Screenshot (118)](https://user-images.githubusercontent.com/96101435/225221638-18dcbbe8-0fca-4e7a-85da-8358f282cbe4.png)
 
------------------------------
-
 * 🌍  I'm based in Dehradun,Uttarakhand
 * ✉️  You can contact me at [sahmed094@gmail.com](mailto:sahmed094@gmail.com)
 * 🧠  I'm learning react.js (Frontend development library )
