@@ -6,9 +6,9 @@ Java Stack Developer
 
 * 🌍  I'm based in Dehradun,Uttarakhand
 * ✉️  You can contact me at [sahmed094@gmail.com](mailto:sahmed094@gmail.com)
-* 🧠  I'm learning SOLID,LLDS,SLDS
-* 🤝  I'm open to collaborating on Rest API using Java,Spirng boot, hibernate, Mysql OR Node.js, express.js, mongoDb.
-* ⚡  I love to upskill myself
+* 🧠  I'm learning react.js (Frontend develpment library )
+* 🤝  I'm open to collaborating with Tech stack : Java | Spirng boot | hibernate | sql database | Node.js | express.js | nosql mongoDb
+* ⚡  I love to upskill myself 
 
 <a href="https://www.github.com/shoaib-ahmed16" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/shoaib-ahmed16?logo=github&style=for-the-badge&color=facc15&labelColor=000000" /></a>
