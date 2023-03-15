@@ -1,9 +1,7 @@
-Hi 👋 My name is Shoaib Ahmed
-=============================
-![s](https://user-images.githubusercontent.com/96101435/225220875-e3119a59-8966-402a-991c-fac10b1bda46.png)
 
-# Java Stack Developer
---------------------
+![s](https://user-images.githubusercontent.com/96101435/225221077-346609c2-d2ed-4e9d-8b58-10324c1097d4.png)
+
+-----------------------------
 
 * 🌍  I'm based in Dehradun,Uttarakhand
 * ✉️  You can contact me at [sahmed094@gmail.com](mailto:sahmed094@gmail.com)
