@@ -63,7 +63,7 @@ src="https://img.shields.io/github/followers/shoaib-ahmed16?logo=github&style=fo
       <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shoaib-ahmed16&repo=Wallet-app&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" />
   </a>
   <a href="https://github.com/shoaib-ahmed16/Login-SignUp-Authentication-Oauth.git" align="left">
-    
+      <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shoaib-ahmed16&repo=Login-SignUp-Authentication-Oauth&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" />
     
   </a>
 </div>
