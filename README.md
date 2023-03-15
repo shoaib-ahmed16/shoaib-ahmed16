@@ -28,12 +28,9 @@ src="https://img.shields.io/github/followers/shoaib-ahmed16?logo=github&style=fo
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 
-  
 </p>
 
-
 ### Socials
-
 <a href="https://www.github.com/shoaib-ahmed16" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
 </a> 
@@ -46,10 +43,7 @@ src="https://img.shields.io/github/followers/shoaib-ahmed16?logo=github&style=fo
 <a href="https://shoaibportfolio.vercel.app/" target="_blank" rel="noreferrer">
   <img src="https://static-00.iconduck.com/assets.00/portfolio-icon-512x512-u03oqi8o.png" width="32" height="32" />
 </a>
-
-
 </p>
-
 
 ### Badges
 <b>My GitHub Stats</b>
