@@ -1,6 +1,7 @@
 
-![Screenshot (118)](https://user-images.githubusercontent.com/96101435/225221638-18dcbbe8-0fca-4e7a-85da-8358f282cbe4.png)
 
+<h1 align="center">Hi 👋, I'm Shoaib Ahmed</h1>
+<h3 align="center">Experienced Backend Software Developer | Java, Spring Boot, Hibernate, JUnit, Mockito, AWS Enthusiast | 1.5+ Years of Expertise</h3>
 * 🔭 I’m currently working on [elevatemart-cart-service](https://github.com/shoaib-ahmed16/elevatemart-cart-service.git)
 * 🌱 I’m currently learning **System design**
 * 👨‍💻 All of my projects are available at [https://shoaibportfolio.vercel.app/](https://shoaibportfolio.vercel.app/)
@@ -12,8 +13,6 @@
 <a href="https://www.github.com/shoaib-ahmed16" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/shoaib-ahmed16?logo=github&style=for-the-badge&color=facc15&labelColor=000000" /></a>
 
-<h1 align="center">Hi 👋, I'm Shoaib Ahmed</h1>
-<h3 align="center">Experienced Backend Software Developer | Java, Spring Boot, Hibernate, JUnit, Mockito, AWS Enthusiast | 1.5+ Years of Expertise</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaib-ahmed16&label=Profile%20views&color=0e75b6&style=flat" alt="shoaib-ahmed16" /> </p>
 
