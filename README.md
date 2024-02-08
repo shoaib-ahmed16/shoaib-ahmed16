@@ -1,15 +1,16 @@
 
 ![Screenshot (118)](https://user-images.githubusercontent.com/96101435/225221638-18dcbbe8-0fca-4e7a-85da-8358f282cbe4.png)
 
-* 🌍  I'm based in Dehradun,Uttarakhand
-* ✉️  You can contact me at [sahmed094@gmail.com](mailto:sahmed094@gmail.com)
-* 🧠  I'm learning react.js (Frontend development library )
+* 🔭 I’m currently working on [elevatemart-cart-service](https://github.com/shoaib-ahmed16/elevatemart-cart-service.git)
+* 🌱 I’m currently learning **System design**
+* 👨‍💻 All of my projects are available at [https://shoaibportfolio.vercel.app/](https://shoaibportfolio.vercel.app/)
+* 💬 Ask me about **java, spring boot, TDD & BDD Testing, React.js, Aws**
 * 🤝  I'm open to collaborating with Tech stack : Java | Spirng boot | hibernate | sql database | Node.js | express.js | nosql mongoDb
-* ⚡  I love to upskill myself 
+* 📫 How to reach me [sahmed094@gmail.com](mailto:sahmed094@gmail.com)
+* ⚡  I love to explore new technologies
 
 <a href="https://www.github.com/shoaib-ahmed16" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/shoaib-ahmed16?logo=github&style=for-the-badge&color=facc15&labelColor=000000" /></a>
-![](https://komarev.com/ghpvc/?username=shoaib-ahmed16)
 
 <h1 align="center">Hi 👋, I'm Shoaib Ahmed</h1>
 <h3 align="center">Experienced Backend Software Developer | Java, Spring Boot, Hibernate, JUnit, Mockito, AWS Enthusiast | 1.5+ Years of Expertise</h3>
@@ -18,15 +19,6 @@ src="https://img.shields.io/github/followers/shoaib-ahmed16?logo=github&style=fo
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shoaib-ahmed16" alt="shoaib-ahmed16" /></a> </p>
 
-- 🔭 I’m currently working on [elevatemart-cart-service](https://github.com/shoaib-ahmed16/elevatemart-cart-service.git)
-
-- 🌱 I’m currently learning **System design**
-
-- 👨‍💻 All of my projects are available at [https://shoaibportfolio.vercel.app/](https://shoaibportfolio.vercel.app/)
-
-- 💬 Ask me about **java, spring boot, TDD & BDD Testing, React.js, Aws**
-
-- 📫 How to reach me **sahmed094@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
