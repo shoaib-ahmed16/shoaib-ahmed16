@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shoaib Ahmed</h1>
-<h3 align="center">Experienced Backend Software Developer | Java, Spring Boot, Hibernate, JUnit, Mockito, AWS Enthusiast | 1.5+ Years of Expertise</h3>
+<h3 align="center">Experienced Backend Software Developer | Java, Spring Boot, Hibernate, JUnit, Mockito, AWS Enthusiast | 3.9+ Years of Expertise</h3>
 
 * 🔭 I’m currently working on [elevatemart-cart-service](https://github.com/shoaib-ahmed16/elevatemart-cart-service.git)
 * 🌱 I’m currently learning **System design**
