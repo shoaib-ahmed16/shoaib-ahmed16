@@ -4,7 +4,7 @@
 * 🔭 I’m currently working on [elevatemart-cart-service](https://github.com/shoaib-ahmed16/elevatemart-cart-service.git)
 * 🌱 I’m currently learning **System design**
 * 👨‍💻 All of my projects are available at [https://shoaibportfolio.vercel.app/](https://shoaibportfolio.vercel.app/)
-* 💬 Ask me about **java, spring boot, TDD & BDD Testing, React.js, Aws**
+* 💬 Ask me about **java, spring boot, TDD & BDD Testing, Next.js, Aws, Docker, Kubernates, Istio**
 * 🤝  I'm open to collaborating with Tech stack : Java | Spirng boot | hibernate | sql database | Node.js | express.js | nosql mongoDb
 * 📫 How to reach me [sahmed094@gmail.com](mailto:sahmed094@gmail.com)
 * ⚡  I love to explore new technologies
